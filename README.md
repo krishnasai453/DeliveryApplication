@@ -1,3 +1,3 @@
 # ElhexDelivery
 
-**TODO: Add description**
+Application to calculate distance from current location to delivery location in Elixir
